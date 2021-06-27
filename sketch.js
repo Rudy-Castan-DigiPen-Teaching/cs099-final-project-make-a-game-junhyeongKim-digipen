@@ -21,9 +21,10 @@ function setup()
     game1_simulation = loadImage('img/game1simul.PNG')
     game2_simulation = loadImage('img/game2simul.PNG')
     //sound
+    
     background_music.loop()
     background_music.setVolume(background_volume)
-   
+    
     //game1
     game1player = new game1_player(350);
     object_1 = new object2(1110,1,game1_load2);
@@ -108,7 +109,7 @@ function draw()
     case Credit_MENU:
     {
         back_button("back",10,10,MAIN_MENU);
-        text("qqasasa",width/2, height/2);
+        text("Thank you to my colleagues and\n seniors for your help.\nI love you, mom and dad.\nI'm going to bed now.",width/2, height/2);
     }
     break;
     case Story1:
