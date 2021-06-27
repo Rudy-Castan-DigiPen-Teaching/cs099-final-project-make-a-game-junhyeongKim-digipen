@@ -45,10 +45,10 @@ Topics:
 2. Colors - X
 3. Variables - X
 4. Conditional Statements - X
-5. Loops
+5. Loops  - X
 6. Functions - X
 7. Classes - X
-8. Arrays
+8. Arrays - X
 
 Tip: For each topic think about the What, Why and How. Like, What is it? Why is it important? How do we use it?
 
@@ -82,7 +82,7 @@ For example, if a student had the login name fun.frank then the appropriate file
 
 - [ ] Zip file has all the required files. **NOTE:** If we can't build and run your game then you will receive a **Zero**
 - [ ] The zip file submitted can be extracted and the sketch runs in Chrome with a local web server.
-- [ ] Published the project on GitHub.
+- [v] Published the project on GitHub.
 - [ ] Properly documented media files in a `Media.md`.
 - [ ] **All** Source Code has a proper header comment: Name, Project Name, Course Number, Term & Year. 
 - [ ] Properly named zip file.
